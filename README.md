@@ -15,10 +15,3 @@ Project Managers (LearningFuze staff) and Developers (LearningFuze students) wil
 Congratulations on making it this far! There is work left to be done, but these guides aim to start you off on solid footing and help you maintain good velocity throughout the project.
 
 Good luck!
-
-12345789
-*****
-****
-***
-**
-*
