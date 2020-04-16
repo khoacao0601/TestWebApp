@@ -22,7 +22,9 @@ app.get('/api/health-check', (req, res, next) => {
 
 app.get('/api/questions', (req, res) => {
   const sql = `
-      SELECT * FROM "questions"
+  SELECT  "q"."questionid" as "Id",
+        "q"."content" as "Question", array_agg("answer")
+      FROM "questions" as "q" join "answers" as "a" using("questionid") GROUP BY "q"."questionid","q"."content" order by random() ;
  `;
 
   db.query(sql)
