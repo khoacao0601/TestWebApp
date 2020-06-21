@@ -20,18 +20,18 @@ export default class App extends React.Component {
   checkEmpty() {
     if (this.state.question.length !== 0) {
       return (
-        <div>
+        <React.Fragment>
           <Question content={this.state.question}/>
-        </div>
+        </React.Fragment>
       );
     }
   }
 
   render() {
     return (
-      <div>
+      <React.Fragment>
         {this.checkEmpty()}
-      </div>
+      </React.Fragment>
     );
   }
 }
