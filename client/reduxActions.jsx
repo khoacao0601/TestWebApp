@@ -2,4 +2,12 @@ function checkEmptyAnswer(item) {
   return { type: 'addStatus', item };
 }
 
-module.exports = { checkEmptyAnswer };
+function checkEmptyAnswerMinus(index) {
+  return { type: 'remove', index };
+}
+
+function resetAnswerStatusArray() {
+  return { type: 'reset' };
+}
+
+module.exports = { checkEmptyAnswer, checkEmptyAnswerMinus, resetAnswerStatusArray };
