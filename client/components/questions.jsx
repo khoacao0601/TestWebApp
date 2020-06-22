@@ -11,7 +11,7 @@ class Question extends React.Component {
       answerAlert: '',
       questionIndex: 0,
       status: 'Next',
-      answer: []
+      questionOrder: 1
     };
   }
 
@@ -28,12 +28,14 @@ class Question extends React.Component {
   }
 
   nextQuestion() {
-    if (this.state.questionIndex < this.props.content.length - 1) {
+    if (this.state.questionIndex < this.props.content.length - 2) {
       let increase = this.state.questionIndex;
       ++increase;
       this.setState({ questionIndex: increase });
+      this.setState({ questionOrder: this.state.questionOrder + 1 });
     } else {
       this.setState({ status: 'Submit' });
+      this.setState({ questionOrder: this.state.questionOrder + 1 });
     }
   }
 
@@ -43,6 +45,7 @@ class Question extends React.Component {
     return (
       <div className="col-5">
         <form id="answers" className="border mt-5 ml-auto">
+          {this.state.questionOrder}/{this.props.questionAmount}
           {this.props.content[this.state.questionIndex].Question}
           <br/>
           {this.props.content[this.state.questionIndex].array_agg.map((object, indexArray) => <Answers key={indexArray} content={object} questionIndex={this.state.questionIndex}arrayAnswers={this.props.content[this.state.questionIndex].array_agg} />)}
@@ -57,5 +60,8 @@ class Question extends React.Component {
 }
 
 export default connect(function (state) {
-  return { answerStatus: state.answerStatus };
+  return {
+    answerStatus: state.answerStatus,
+    questionAmount: state.questionsAmount
+  };
 })(Question);

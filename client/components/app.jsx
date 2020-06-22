@@ -1,13 +1,16 @@
 import React from 'react';
 import Question from './questions';
+import QuestionAmount from './questionAmount';
+import { connect } from 'react-redux';
 
-export default class App extends React.Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
       question: []
     };
     this.checkEmpty = this.checkEmpty.bind(this);
+    this.changeDirection = this.changeDirection.bind(this);
   }
 
   componentDidMount() {
@@ -21,17 +24,42 @@ export default class App extends React.Component {
     if (this.state.question.length !== 0) {
       return (
         <React.Fragment>
-          <Question content={this.state.question}/>
+          <Question content={this.state.question.slice(0, this.props.questionAmount)}/>
+        </React.Fragment>
+      );
+    }
+  }
+
+  changeDirection() {
+
+    if (this.props.direction === 'amountQuestion') {
+      return (
+        <QuestionAmount></QuestionAmount>
+      );
+    }
+
+    if (this.props.direction === 'questionList') {
+      return (
+        <React.Fragment>
+          {this.checkEmpty()}
         </React.Fragment>
       );
     }
   }
 
   render() {
+    // console.log(this.props);
     return (
       <React.Fragment>
-        {this.checkEmpty()}
+        {this.changeDirection()}
       </React.Fragment>
     );
   }
 }
+
+export default connect(function (state) {
+  return {
+    direction: state.changeDirection,
+    questionAmount: state.questionsAmount
+  };
+})(App);
