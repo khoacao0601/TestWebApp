@@ -8,6 +8,3 @@ The guides cover the following topics:
 1. [Team Meetings](guides/TEAM_MEETINGS.md)
 1. [Full Stack Development Workflow](guides/FULL_STACK_WORKFLOW.md)
 1. [Deployment to EC2 on AWS](guides/DEPLOYMENT.md)
-1. [Presentations](guides/PRESENTING.md)
-
-
