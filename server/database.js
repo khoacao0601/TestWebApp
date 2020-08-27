@@ -5,5 +5,3 @@ const db = new pg.Pool({
 });
 
 module.exports = db;
-012345
-6789
