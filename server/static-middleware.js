@@ -5,3 +5,4 @@ const publicPath = path.join(__dirname, 'public/');
 const staticMiddlware = express.static(publicPath);
 
 module.exports = staticMiddlware;
+012345
