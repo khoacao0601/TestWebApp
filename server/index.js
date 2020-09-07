@@ -10,7 +10,7 @@ const app = express();
 
 app.use(staticMiddleware);
 app.use(sessionMiddleware);
-0123456789
+
 app.use(express.json());
 
 app.get('/api/health-check', (req, res, next) => {
