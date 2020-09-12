@@ -25,7 +25,7 @@ app.get('/api/questions', (req, res) => {
         "q"."content" as "Question", array_agg("answer")
       FROM "questions" as "q" join "answers" as "a" using("questionid") GROUP BY "q"."questionid","q"."content" order by random() ;
  `;
-0123456789
+
   db.query(sql)
     .then(result => {
       const all = result.rows;
