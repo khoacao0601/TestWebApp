@@ -7,7 +7,7 @@ const staticMiddleware = require('./static-middleware');
 const sessionMiddleware = require('./session-middleware');
 
 const app = express();
-012345
+0123456789
 app.use(staticMiddleware);
 app.use(sessionMiddleware);
 
