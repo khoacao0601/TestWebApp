@@ -12,3 +12,4 @@ var changeDirection = (state = 'amountQuestion', action) => {
 };
 
 module.exports = changeDirection;
+012345
