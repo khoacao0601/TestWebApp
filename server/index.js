@@ -8,7 +8,8 @@ const sessionMiddleware = require('./session-middleware');
 
 const app = express();
 
-
+app.use(staticMiddleware);
+app.use(sessionMiddleware);
 
 app.use(express.json());
 
