@@ -7,9 +7,8 @@ const staticMiddleware = require('./static-middleware');
 const sessionMiddleware = require('./session-middleware');
 
 const app = express();
-012345
-app.use(staticMiddleware);
-app.use(sessionMiddleware);
+
+
 
 app.use(express.json());
 
