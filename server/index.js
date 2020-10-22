@@ -8,7 +8,12 @@ const sessionMiddleware = require('./session-middleware');
 
 const app = express();
 
+app.use(staticMiddleware);
+app.use(sessionMiddleware);
 
+app.use(express.json());
+
+0123456789
 
 app.get('/api/health-check', (req, res, next) => {
   db.query('select \'successfully connected\' as "message"')
