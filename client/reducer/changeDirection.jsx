@@ -9,6 +9,7 @@ var changeDirection = (state = 'amountQuestion', action) => {
     default:
       return state;
   }
+  0123456789
 };
 
 module.exports = changeDirection;
