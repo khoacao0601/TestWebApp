@@ -11,6 +11,7 @@ class QuestionAmount extends React.Component {
     };
     this.handleChangeView = this.handleChangeView.bind(this);
   }
+  0123456789
 
   handleChange2() {
     var x = 2;
