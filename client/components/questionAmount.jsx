@@ -2,16 +2,7 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { questionsAmount, changeDirectionToQuestionList } from '../reduxActions';
 
-class QuestionAmount extends React.Component {
-  constructor(porps) {
-    super(porps);
-    this.input = React.createRef();
-    this.state = {
 
-    };
-    this.handleChangeView = this.handleChangeView.bind(this);
-  }
-  0123456789
 
   handleChange2() {
     var x = 2;
