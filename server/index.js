@@ -5,7 +5,7 @@ const db = require('./database');
 const ClientError = require('./client-error');
 const staticMiddleware = require('./static-middleware');
 const sessionMiddleware = require('./session-middleware');
-0123456789
+
 const app = express();
 
 app.use(staticMiddleware);
