@@ -7,5 +7,5 @@ var questionsAmount = (state = '', action) => {
       return state;
   }
 };
-0123456789
+
 module.exports = questionsAmount;
