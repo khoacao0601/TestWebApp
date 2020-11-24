@@ -6,4 +6,3 @@ var store = redux.createStore(reducer, redux.compose(
 ));
 
 module.exports = store;
-0123456789
