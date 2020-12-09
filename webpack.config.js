@@ -6,7 +6,10 @@ const publicPath = path.join(__dirname, 'server/public/');
 
 module.exports = {
   resolve: {
-    extensions: ['.js', '.jsx']
+    extensions: ['.js', '.jsx', '.css'],
+    modulesDirectories: [
+      'node_modules'
+    ]
   },
   entry: clientPath,
   output: {
@@ -24,6 +27,14 @@ module.exports = {
             ]
           }
         }
+      },
+      {
+        test: /\.css$/i,
+        use: [
+          'handlebars-loader', // handlebars loader expects raw resource string
+          'extract-loader',
+          'css-loader'
+        ]
       }
     ]
   },

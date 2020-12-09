@@ -43,8 +43,8 @@ class QuestionAmount extends React.Component {
       <div>
         <p>How many questions you want to test?</p>
         <button type="button" className="ml-2 btn btn-primary" onClick={this.handleChange2.bind(this)}>2 questions</button>
-        <button type="button" id='btn5' className="ml-2 btn btn-success" onClick={this.handleChange5.bind(this)}>5 questions</button>
-        <button type="button" id='btn8' className="ml-2 btn btn-dark" onClick={this.handleChange8.bind(this)}>8 questions</button>
+        <button type="button" className="ml-2 btn btn-success" onClick={this.handleChange5.bind(this)}>5 questions</button>
+        <button type="button" className="ml-2 btn btn-dark" onClick={this.handleChange8.bind(this)}>8 questions</button>
       </div>
     );
   }
