@@ -28,20 +28,17 @@ class Question extends React.Component {
   }
 
   nextQuestion() {
-    if (this.state.questionIndex < this.props.content.length - 2) {
+    if (this.state.questionIndex < this.props.content.length - 1) {
       let increase = this.state.questionIndex;
       ++increase;
       this.setState({ questionIndex: increase });
       this.setState({ questionOrder: this.state.questionOrder + 1 });
     } else {
       this.setState({ status: 'Submit' });
-      this.setState({ questionOrder: this.state.questionOrder + 1 });
     }
   }
 
   render() {
-    // console.log(this.props.content[this.state.questionIndex]);
-    // console.log(this.props.answerStatus);
     return (
       <div className="col-5">
         <form id="answers" className="border mt-5 ml-auto">

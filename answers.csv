@@ -1,0 +1,420 @@
+questionid,answer,value
+1,the Constitution,TRUE
+1,the Articles,FALSE
+1,the Declaration of Independence,FALSE
+1,the Articles of Confederation,FALSE
+2,sets up the government,FALSE
+2,defines the government,FALSE
+2,protects basic rights of Americans,FALSE
+2,All of the above,TRUE
+3,We the People,TRUE
+3,We the Freedom,FALSE
+4,a change (to the Constitution),FALSE
+4,an addition (to the Constitution),FALSE
+4,an replacement (to the Constitution),FALSE
+4,A and B,FALSE
+5,the Bill of Rights,TRUE
+5,the Bill of Duty,FALSE
+5,the Bill of Utilities,FALSE
+6,speech,TRUE
+6,work,FALSE
+6,petition the government,TRUE
+6,assembly,TRUE
+6,press,TRUE
+6,religion,TRUE
+7,twenty-seven (27),TRUE
+7,seventy-two (72),FALSE
+7,twenty-six (26),FALSE
+8,announced our independence (from Great Britain),TRUE
+8,declared our independence (from Great Britain),TRUE
+8,said that the United States was won the war (with Great Britain),FALSE
+8,said that the United States is free (from Great Britain),TRUE
+8,All of the above,FALSE
+9,life,TRUE
+9,pursuit of happiness,TRUE
+9,liberty,TRUE
+9,love,FALSE
+10,"You can practice any religion, or not practice a religion.",TRUE
+10,"You can't practice any religion, or not practice a religion.",FALSE
+11,capitalist economy,FALSE
+11,market economy,FALSE
+11,A and B,TRUE
+12,Everyone must follow the law,FALSE
+12,Government must obey the law. ,FALSE
+12,Leaders must obey the law.,FALSE
+12,No one is above the law.,FALSE
+12,All of the above,TRUE
+13,Congress,TRUE
+13,judicial,TRUE
+13,legislative,TRUE
+13,the Constitution,FALSE
+13,the courts,TRUE
+13,executive,TRUE
+13,President,TRUE
+14,"checks and balances",FALSE
+14,separation of powers,FALSE
+14,All of the above,TRUE
+15,the Vice President,FALSE
+15,the President,TRUE
+16,Congress,TRUE
+16,the President,FALSE
+16,(U.S. or national) legislature,TRUE
+16,Senate and House (of Representatives),TRUE
+17,the Senate and House (of Representatives),TRUE
+17,the Senate and the Speaker of the House (of Representatives),FALSE
+18,one hundred (100),TRUE
+18,ninety (90),FALSE
+18,fifty (50),FALSE
+19,four (4),FALSE
+19,six (6),TRUE
+19,eight (8),FALSE
+20,I know,TRUE
+20,I don't know,FALSE
+21,four hundred thirty-four (434),FALSE
+21,four hundred thirty-five (435),TRUE
+21,four hundred fifty-five (455),FALSE
+22,six (6),FALSE
+22,four (4),FALSE
+22,two (2),TRUE
+23,I know,TRUE
+23,I don't know,FALSE
+24,all people of the state,TRUE
+24,all people of the city,FALSE
+25,all people of the nation,FALSE
+26,(because of) the state’s population,FALSE
+26,(because) they have more people,FALSE
+26,(because) some states have more people,FALSE
+26,All of the above,TRUE
+27,four (4),TRUE
+27,six (6),FALSE
+27,eight (8),FALSE
+28,December,FALSE
+28,November,TRUE
+28,October,FALSE
+29,I know,TRUE
+29,I don't know,FALSE
+30,I know,TRUE
+30,I don't know,FALSE
+31,the Vice President,TRUE
+31,the Spkeaker of the House,FALSE
+32,the Spkeaker of the House,TRUE
+32,the General,FALSE
+33,the President,TRUE
+33,the Govenor,FALSE
+34,the President,TRUE
+34,the Vice President,FALSE
+35,advises the President,TRUE
+35,helps the President,FALSE
+35,supports the President,FALSE
+36,Secretary of Agriculture,TRUE
+36,Secretary of Commerce,TRUE
+36,Secretary of Engineer,FALSE
+36,Secretary of Defense,TRUE
+36,Secretary of Education,TRUE
+36,Secretary of City,FALSE
+36,Secretary of Energy,TRUE
+36,Secretary of Health and Human Services,TRUE
+36,Secretary of Enviroment,FALSE
+36,Secretary of Homeland Security,TRUE
+36,Secretary of Housing and Urban Development,TRUE
+36,Secretary of the Interior,TRUE
+36,Secretary of Labor,TRUE
+36,Secretary of National Park,TRUE
+36,Secretary of State,TRUE
+36,Secretary of Transportation,TRUE
+36,Secretary of the Treasury,TRUE
+36,Secretary of Veterans Affairs,TRUE
+36,Governor,TRUE
+36,Attorney General,FALSE
+36,The Courts,TRUE
+36,Vice President,FALSE
+37,reviews laws,TRUE
+37,explains laws,FALSE
+37,resolves disputes (disagreements),FALSE
+37,decides if a law goes against the Constitution,FALSE
+37,All of the above,TRUE
+38,the Supreme Court,TRUE
+38,the District Courts,FALSE
+39,eight (8),FALSE
+39,nine (9),TRUE
+40,"John Robert (John G. Robert, Jr.)",TRUE
+40,"Jonh Roben (John G, Roben, Sr.)",FALSE
+41,to create an army,TRUE
+41,to make treaties,TRUE
+41,to declare war,TRUE
+41,to print money,TRUE
+41,to make food,FALSE
+42,provide schooling and education,TRUE
+42,approve zoning and land use,TRUE
+42,declare war,FALSE
+42,provide protection (police) ,TRUE
+42,provide safety (fire departments),TRUE
+42,give a driver’s license,TRUE
+43,Gavin Newsom,TRUE
+43,Gavin Newman,FALSE
+44,Sacramento,TRUE
+44,Los Angeles,FALSE
+45,Democratic and Republica,TRUE
+45,Communist and Republica,FALSE
+46,Relpublican Party,TRUE
+46,Democratic Party,FALSE
+47,Nancy Pelosi,TRUE
+47,Nancie Peloxi,FALSE
+48, Citizens eighteen (18) and older (can vote).,TRUE
+48,Any citizen can vote.  (Women and men can vote.),TRUE
+48,You don’t have to pay (a poll tax) to vote.,TRUE
+48,A male citizen of any race (can vote),TRUE
+49,vote in a federal election,TRUE
+49,serve on a jury,TRUE
+49,serve for nation,FALSE
+50,vote in a federal election,TRUE
+50,go to school,FALSE
+50,run for federal office,TRUE
+51,freedom of expression,TRUE
+51,freedom of speech,TRUE
+51,freedom of love,FALSE
+51,freedom of assembly,TRUE
+51,freedom to petition the government ,TRUE
+51,freedom of religion,TRUE
+51,the right to be protected,FALSE
+51,the right to bear arms ,TRUE
+52,the United States,FALSE
+52,the flag ,FALSE
+52,All of the above,TRUE
+53,give up loyalty to other countries,TRUE
+53,defend the Constitution and laws of the United States,TRUE
+53,obey the laws of the United States,TRUE
+53,be loyal to the United States,TRUE
+53,serve (do important work for) the nation (if needed),TRUE
+53,serve in the U.S. military (if needed),TRUE
+54,eighteen (18) and older,TRUE
+54,twenty one (21) and older,FALSE
+55,write to a newspaper,TRUE
+55,run for office,TRUE
+55,call Senators and Representative,TRUE
+55,publicly support or oppose an issue or policy,TRUE
+55,join a community group,TRUE
+55,give an elected official your opinion on an issue,TRUE
+55,help with a campaign,TRUE
+55,join a political party,TRUE
+55,join a civic group,TRUE
+55,vote,TRUE
+56,April 15,TRUE
+56,January 6,FALSE
+56,August 16,FALSE
+57,at age eighteen (18),FALSE
+57,between eighteen (18) and twenty-six (26),FALSE
+57,All of the above,TRUE
+58,political liberty,TRUE
+58, practice their religion,TRUE
+58,religious freedom,TRUE
+58,economic opportunity,TRUE
+58,freedom,TRUE
+58,escape persecution,TRUE
+59,American Indians,FALSE
+59,Native Americans ,FALSE
+59,All of the above,TRUE
+60,Africans,FALSE
+60,people from Africa ,FALSE
+60,All of the above,TRUE
+61,because of high taxes (taxation without representation),FALSE
+61,"because the British army stayed in their houses (boarding, quartering)",FALSE
+61,because they didn’t have self-government,FALSE
+61,All of the above,TRUE
+62, (Thomas) Edison ,FALSE
+62,(Thomas) Jefferson ,TRUE
+63,"July 4, 1776",TRUE
+63,"July 4, 1775",FALSE
+63,"June 4, 1786",FALSE
+64,Massachusetts,TRUE
+64,Delaware,TRUE
+64,Rhode Island ,TRUE
+64,Los Angeles,FALSE
+64,New Hampshire,TRUE
+64,San Diego,FALSE
+64,Connecticut,TRUE
+64,Salt Lake City,FALSE
+64,New York,TRUE
+64,Denver,FALSE
+64,New Jersey ,TRUE
+64,Georgia,TRUE
+64,Pennsylvania,TRUE
+64,Sacramento,FALSE
+64,Maryland,TRUE
+64,Seattle,FALSE
+64,Virginia,TRUE
+64,Tampa,FALSE
+64,North Carolina,TRUE
+64,Houston,FALSE
+64,South Carolina,TRUE
+65,The Constitution was written,FALSE
+65,The Founding Fathers wrote the Constitution.,FALSE
+65,All of the above,FALSE
+66,1778,FALSE
+66,1787,TRUE
+66,1797,FALSE
+66,1878,FALSE
+67,(James) Madison,TRUE
+67,(Alexander) Hamilton,TRUE
+67,(John) Jay,TRUE
+67,(Thomas) Edison,FALSE
+67,Publius,TRUE
+68, U.S. diplomat,TRUE
+68,started the first free libraries ,TRUE
+68,oldest member of the Constitutional Convention,TRUE
+68,U.S diploma,FALSE
+68,writer of “Poor Richard’s Almanac” ,TRUE
+69,(Thomas) Watson,FALSE
+69,(George) Washington,TRUE
+70, (George) Wastson,FALSE
+70, (George) Washington,TRUE
+71,the Louisiana Territory,FALSE
+71,Louisiana,FALSE
+71,All of the above,TRUE
+72,War of 1812,TRUE
+72,Spanish-American War ,TRUE
+72,Mexican-American War,TRUE
+72,Viet Nam war,FALSE
+72,Civil War,TRUE
+73,the Civil War,TRUE
+73,the War between the States ,TRUE
+73,the Cold War,FALSE
+74,states’ rights ,TRUE
+74,slavery,TRUE
+74,economic reasons,TRUE
+74,famine,FALSE
+75,freed the slaves (Emancipation Proclamation),TRUE
+75,led the United States during the Civil War ,TRUE
+75,saved (or preserved) the Union,TRUE
+76,freed the slaves,FALSE
+76,freed slaves in the Confederacy,FALSE
+76,freed slaves in the Confederate states,FALSE
+76,freed slaves in most Southern states ,FALSE
+76,All of the above,TRUE
+77,fought for women’s rights,FALSE
+77,fought for civil rights,FALSE
+77,All of the above,TRUE
+78,World War I ,TRUE
+78,Korean War,TRUE
+78,World War II,TRUE
+78,Vietnam War,TRUE
+78,(Persian) Gulf War,TRUE
+78,Cold War,FALSE
+79,(George) Washington,FALSE
+79,(Woodrow) Wilson,TRUE
+80,(Grover) Cleveland,FALSE
+80,(Franklin) Roosevelt,TRUE
+81,"Japan, Germany, and Italy ",TRUE
+81,"Japan, Russia, and Italy ",FALSE
+82,World War II,TRUE
+82,World War I,FALSE
+82,Cold War,FALSE
+83,Communism,TRUE
+83,Virus,FALSE
+83,Great Depression,FALSE
+84,Financial Support,FALSE
+84,civil rights (movement) ,TRUE
+84,Medical,FALSE
+85, fought for civil rights,FALSE
+85,worked for equality for all Americans,FALSE
+85,All of the above,TRUE
+86,Terrorists attacked the United States,TRUE
+86,Great Depression,FALSE
+87,Cherokee ,TRUE
+87,Salvana,FALSE
+87,Navajo,TRUE
+87,Iroquois,TRUE
+87,Sioux,TRUE
+87,Creek,TRUE
+87,Chippewa,TRUE
+87,Seminole,TRUE
+87,Choctaw,TRUE
+87,Navando,FALSE
+87,Pueblo,TRUE
+87,Blackfeet,TRUE
+87,Apache,TRUE
+87,Huron,TRUE
+87,Cheyenne,TRUE
+87,Sioxas,FALSE
+87,Arawak,TRUE
+87,Apacheda,FALSE
+87,Shawnee,TRUE
+87,Mohegan,TRUE
+87,Hopi,TRUE
+87,Oneida,TRUE
+87,Indians,FALSE
+87,Lakota,TRUE
+87,Inuit,TRUE
+87,Crow,TRUE
+87,Terisorous,FALSE
+87,Teton,TRUE
+88,Missouri (River),TRUE
+88,Colorado (River),FALSE
+88,Mississippi (River),TRUE
+89,Pacific (Ocean) ,TRUE
+89,Arctic (Ocean),FALSE
+90,Southern (Ocean),FALSE
+90,Atlantic (Ocean),TRUE
+91,Puerto Rico,TRUE
+91,Northern Mariana Islands,TRUE
+91,U.S. Virgin Islands,TRUE
+91,Guam,TRUE
+91,American Samoa,TRUE
+91,Hawaii,FALSE
+92,Maine,TRUE
+92,San Diego,FALSE
+92,New Hampshire ,TRUE
+92,Ohio,TRUE
+92,Vermont,TRUE
+92,Denver,FALSE
+92,Pennsylvania ,TRUE
+92,Michigan,TRUE
+92,New York ,TRUE
+92,Minnesota,TRUE
+92,Chicago,FALSE
+92,North Dakota,TRUE
+92,Montana,TRUE
+92,Dallas,FALSE
+92,Idaho,TRUE
+92,Alaska,TRUE
+92,Washington,TRUE
+93,Arizona ,TRUE
+93,California,TRUE
+93,El Paso,FALSE
+93,New Mexico,TRUE
+93,San Diego,FALSE
+93,Texas,TRUE
+94,"Washington, D.C. ",TRUE
+94,Washington State,FALSE
+95,New York (Harbor),FALSE
+95,Liberty Island,FALSE
+95,All of the above,TRUE
+96,because there were 13 original colonies,FALSE
+96,because the stripes represent the original colonies ,FALSE
+96,All of the above,TRUE
+97,because there is one star for each state,FALSE
+97,because each star represents a state ,FALSE
+97,because there are 50 states,FALSE
+97,All of the above,TRUE
+98,"The Star-Spangled Banner",TRUE
+98,The Star-Sparkle Banner,FALSE
+99,July 4,TRUE
+99,June 4,FALSE
+100,Presidents’ Day,TRUE
+100,Sunday,FALSE
+100,Columbus Day,TRUE
+100,"Martin Luther King, Jr. Day",TRUE
+100,Burger Day,FALSE
+100,Black Friday Day,FALSE
+100,New Year’s Day,TRUE
+100,Birthday,FALSE
+100,Memorial Day,TRUE
+100,Children Day,FALSE
+100,Independence Day,TRUE
+100,Mother Day,FALSE
+100,Labor Day,TRUE
+100,Father Day,FALSE
+100,Veterans Day,TRUE
+100,Thanksgiving,TRUE
+100,Moon Day,FALSE
+100,Christmas,TRUE
