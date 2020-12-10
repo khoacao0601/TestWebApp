@@ -2,7 +2,8 @@ import React from 'react';
 import Question from './questions';
 import QuestionAmount from './questionAmount';
 import { connect } from 'react-redux';
-import '../app.css';
+import NavBar from './navbar';
+import Footer from './footer';
 
 class App extends React.Component {
   constructor(props) {
@@ -32,7 +33,6 @@ class App extends React.Component {
   }
 
   changeDirection() {
-
     if (this.props.direction === 'amountQuestion') {
       return (
         <QuestionAmount></QuestionAmount>
@@ -52,13 +52,9 @@ class App extends React.Component {
     // console.log(this.props);
     return (
       <React.Fragment>
-        <ul>
-          <li><a className="active" href="#home">Home</a></li>
-          <li><a href="#news">News</a></li>
-          <li><a href="#contact">Contact</a></li>
-          <li><a href="#about">About</a></li>
-        </ul>
+        <NavBar/>
         {this.changeDirection()}
+        <Footer/>
       </React.Fragment>
     );
   }

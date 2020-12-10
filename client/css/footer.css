@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+
+.card {
+    padding: 1% 7%;
+    color: #646771;
+    background-color: #16151a
+}
+
+.footer ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0
+}
+
+.footer ul>li {
+    padding: 4px
+}
+
+.footer ul>li:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.footer hr {
+    border-width: 3px
+}
+
+.footer .social>i {
+    padding: 1%;
+    font-size: 30px
+}
+
+.footer .social>i:hover {
+    color: #957bda;
+    cursor: pointer
+}
+
+.footer .policy>div {
+    padding: 4px
+}
+
+.footer .heading {
+    font-family: 'Titillium Web', sans-serif;
+    color: white
+}
+
+.footer .divider {
+    border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
