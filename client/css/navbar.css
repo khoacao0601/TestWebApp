@@ -5,7 +5,8 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color:white;
+    border-bottom: 1px solid #bfbebb;
   }
   
 .nav li {
@@ -14,19 +15,21 @@
   
 .nav li a {
     display: block;
-    color: white;
+    color: black;
     text-align: center;
-    padding: 39px 65px;
+    padding: 39px 39px;
     text-decoration: none;
+    font-weight: 500;
   }
   
 .nav li a:hover {
-    background-color: #111;
+    text-decoration: underline;
+    text-decoration-color: red;
   }
 
   .nav .title a{
     font-family: 'Krona One', sans-serif;
-    color: white;
+    color: black;
     font-size: 2em;
     padding: 27px 65px;
     text-align: center;
@@ -37,4 +40,6 @@
     text-decoration: none;
   }
 
-  
+  .options{
+    padding-left: 48em;
+  }
