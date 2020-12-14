@@ -17,7 +17,7 @@
     display: block;
     color: black;
     text-align: center;
-    padding: 39px 39px;
+    padding: 2em 2em;
     text-decoration: none;
     font-weight: 500;
   }
@@ -31,15 +31,46 @@
     font-family: 'Krona One', sans-serif;
     color: black;
     font-size: 2em;
-    padding: 27px 65px;
+    padding: 6%;
     text-align: center;
     display: block;
+    width: 11em
   }
+  
 
   .nav .title a:hover{
     text-decoration: none;
   }
 
   .options{
-    padding-left: 48em;
+    padding-left: 35%;
+  }
+
+  @media (min-width: 640px) {
+
+  }
+  
+  @media (min-width: 768px) {
+    .nav .title a{
+      width: 10em;
+    }
+    .nav li a {
+      padding: 2em 1em;
+    }
+    .options{
+      padding-left: 0%;
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .nav li a {
+      padding: 2em 2em;
+  }
+    .options{
+      padding-left: 0%;
+    }
+  }
+  
+  @media (min-width: 1280px) {
+  
   }
