@@ -4,7 +4,7 @@ import '../css/footer.css';
 class Footer extends React.Component {
   render() {
     return (
-      <div className="footer mt-5 fixed-bottom">
+      <div className="footer mt-5">
         <div className="card col-xl-12">
           <div className="row mb-4 ">
             <div className="col-md-4 col-sm-11 col-xs-11">
