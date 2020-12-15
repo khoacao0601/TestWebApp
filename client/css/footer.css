@@ -6,6 +6,7 @@
     background-color: #16151a
 }
 
+
 .footer ul {
     list-style-type: none;
     margin: 0;
@@ -46,4 +47,44 @@
 
 .footer .divider {
     border-top: 2px solid rgba(189, 196, 203, 0.5);
+}
+
+
+@media (min-width: 375px){
+        .footer {
+            bottom: 0;
+            width: 100%;
+        }
+}
+
+@media (min-width: 640px) {
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+@media (min-width: 768px) {
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
 }
