@@ -10,7 +10,7 @@
 .footer ul {
     list-style-type: none;
     margin: 0;
-    padding: 0
+    padding: 0;
 }
 
 .footer ul>li {
@@ -19,21 +19,21 @@
 
 .footer ul>li:hover {
     color: #957bda;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .footer hr {
-    border-width: 3px
+    border-width: 3px;
 }
 
 .footer .social>i {
     padding: 1%;
-    font-size: 30px
+    font-size: 30px;
 }
 
 .footer .social>i:hover {
     color: #957bda;
-    cursor: pointer
+    cursor: pointer;
 }
 
 .footer .policy>div {
@@ -42,7 +42,7 @@
 
 .footer .heading {
     font-family: 'Titillium Web', sans-serif;
-    color: white
+    color: white;
 }
 
 .footer .divider {
