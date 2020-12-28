@@ -15,20 +15,22 @@ class NavBar extends React.Component {
     if (windowSize === 375) {
       return (
         <nav role="navigation">
-          <div className="title"><a className="active" href="#home">Test Web<i className="fas fa-check"></i></a></div>
           <div id="menuToggle">
+            <div className="title">
+              <a className="active" href="#home">Test Web
+                <i className="fas fa-check"></i>
+              </a>
+            </div>
             <input type="checkbox" />
-
             <span></span>
             <span></span>
             <span></span>
-
             <ul id="menu">
-              <a href="#"><li>Home</li></a>
-              <a href="#"><li>About</li></a>
-              <a href="#"><li>Info</li></a>
-              <a href="#"><li>Contact</li></a>
-              <a href="https://erikterwan.com/" target="blank"><li>Show me more</li></a>
+              <a href="#home"><li>Home</li></a>
+              <a href="#news"><li>News</li></a>
+              <a href="#test"><li>Practice Test</li></a>
+              <a href="#contact"><li>Contact</li></a>
+              <a href="#about"><li>About</li></a>
             </ul>
           </div>
         </nav>
