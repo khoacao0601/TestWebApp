@@ -1,4 +1,6 @@
-
+import React from 'react';
+import { connect } from 'react-redux';
+import { checkEmptyAnswer, checkEmptyAnswerMinus } from '../reduxActions';
 
   componentDidMount() {
     this.setState({ answerArray: this.props.content[this.props.questionIndex].array_agg });
