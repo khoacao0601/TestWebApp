@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { checkEmptyAnswer, checkEmptyAnswerMinus } from '../reduxActions';
-012345
+0123456789
 class Answers extends React.Component {
   constructor(props) {
     super(props);
