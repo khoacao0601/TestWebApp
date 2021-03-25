@@ -1,6 +1,6 @@
 import React from 'react';
 import '../css/footer.css';
-012345
+0123456789
 class Footer extends React.Component {
   render() {
     return (
