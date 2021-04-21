@@ -4,7 +4,7 @@ import QuestionAmount from './questionAmount';
 import { connect } from 'react-redux';
 import NavBar from './navbar';
 import Footer from './footer';
-0123456789
+
 class App extends React.Component {
   constructor(props) {
     super(props);
